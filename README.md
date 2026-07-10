@@ -1,6 +1,8 @@
 # royston_
 Royston's Multivariate Normality Test Use royston (MVN) With (In) R Software
 
+https://www.youtube.com/watch?v=-3c_JtEEx3g
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
